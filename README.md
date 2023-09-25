@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhatnam1198
 - 👀 I’m interested in building products that impact lives, Software Architecture, Databases, Data structures, Algorithms, ... etc
-- 🌱 I’m currently learning Golang, K8s, RocksDB, Kvrocks, Redis, ....
+- 🌱 I’m currently learning Golang, K8s, RocksDB, Kvrocks, Redis, Kafka Connect, CDC, .... etc
 - 💞️ I’m looking to collaborate on side hustle projects
 
 <!---
